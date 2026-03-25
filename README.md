@@ -10,7 +10,7 @@ I apply engineering principles to solve environmental and health challenges. My 
 
 * **Bio-Based Water Filtration** *Research into sustainable, natural materials for accessible water purification.* [**View Research Poster**](PASTE_GOOGLE_DRIVE_LINK_HERE)
 
-* **AI Traffic Management System** *An Arduino-controlled prototype designed to optimize urban traffic flow using smart sensors.* [**View Technical Schematic**](PASTE_GOOGLE_DRIVE_LINK_HERE)
+* **AI Traffic Management System** *An Arduino-controlled prototype designed to optimize urban traffic flow using smart sensors.* [**View Technical Schematic**](https://drive.google.com/drive/folders/1EhHtac-06QtQHxNZPYR3qrxIkn2K3Ugp?usp=drive_link)
 
 ---
 
